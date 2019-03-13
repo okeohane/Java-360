@@ -1,6 +1,9 @@
+/*
+Uses Zeller’s congruence algorithm developed by Christian Zeller to calculate the day of the week.
+*/
+
 package javaapplication2;
 import java.util.Scanner;
-
 public class JavaApplication2 
 {
     public static void main(String[] args) 
