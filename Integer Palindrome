@@ -1,7 +1,11 @@
+/*
+Prompts the user to enter a five-digit integer and determines whether it is a palindrome integer. 
+An integer is palindrome if it reads the same from right to left and from left to right. 
+A negative integer is treated the same as a positive integer. String class is not used.
+*/
+
 package javaapplication1;
-
 import java.util.Scanner;
-
 public class JavaApplication1 
 {
     public static void main(String[] args) 
